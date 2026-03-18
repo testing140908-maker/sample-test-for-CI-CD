@@ -5,3 +5,6 @@ steps:
 
 - script: npm install
 - script: npm run build
+- task: DotNetCoreCLI@2
+  inputs:
+    command: 'build'
