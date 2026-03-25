@@ -1,4 +1,4 @@
-# Day 11/16 - Azure DevOps CICD Pipeline on Azure Kubernetes Services 🛳️ 🐳
+
 
 ## Check out the video below for Day11 👇
 
